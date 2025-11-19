@@ -1,0 +1,34 @@
+# Dependency directories
+node_modules/
+
+# Environment variables and credentials
+.env
+
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Output of 'npm pack'
+*.tgz
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo

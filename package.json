@@ -1,0 +1,10 @@
+{
+  "name": "MySQL",
+  "version": "1",
+  "description": "Execute MySQL queries - SELECT, INSERT, UPDATE, DELETE operations",
+  "author": "node-drop",
+  "nodes": [
+    "nodes/MySQL.node.js"
+  ],
+  "credentials": []
+}
